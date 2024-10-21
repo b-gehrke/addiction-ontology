@@ -11,7 +11,6 @@
      xmlns:foaf="http://xmlns.com/foaf/0.1/"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-     xmlns:chebi="http://purl.obolibrary.org/obo/chebi/"
      xmlns:sssom="https://w3id.org/sssom/"
      xmlns:terms="http://purl.org/dc/terms/"
      xmlns:schema="https://schema.org/"
@@ -674,7 +673,7 @@
     <!-- http://addictovocab.org/ADDICTO_0000164 -->
 
     <owl:Class rdf:about="http://addictovocab.org/ADDICTO_0000164">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_50906"/>
         <obo:IAO_0000114>Proposed</obo:IAO_0000114>
         <obo:IAO_0000115>A sample is a substance role played by a biological substance as an input substance to a protocol.</obo:IAO_0000115>
         <obo:IAO_0000232>The definition and link to role is coherent with BFO but the ontology itself is probably not suitable to be imported.</obo:IAO_0000232>
@@ -790,7 +789,7 @@
     <!-- http://addictovocab.org/ADDICTO_0000179 -->
 
     <owl:Class rdf:about="http://addictovocab.org/ADDICTO_0000179">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_50906"/>
         <obo:IAO_0000112>Dr Smith has a personal stake in the outcome of the clinical trial of the drug, varenicline, because he has shares in the company that produces the drug.</obo:IAO_0000112>
         <obo:IAO_0000114>Proposed</obo:IAO_0000114>
         <obo:IAO_0000115>A personal attribute that involves an outcome of value to that person arising from a process.</obo:IAO_0000115>
@@ -1679,7 +1678,7 @@
     <!-- http://addictovocab.org/ADDICTO_0000278 -->
 
     <owl:Class rdf:about="http://addictovocab.org/ADDICTO_0000278">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_50906"/>
         <obo:IAO_0000114>Proposed</obo:IAO_0000114>
         <obo:IAO_0000115>A role performed by an organisation or individual who participates in processes that bring the product into existence or purpose it as a product.</obo:IAO_0000115>
         <rdfs:label>producer of product</rdfs:label>
@@ -1773,7 +1772,7 @@
     <!-- http://addictovocab.org/ADDICTO_0000293 -->
 
     <owl:Class rdf:about="http://addictovocab.org/ADDICTO_0000293">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_50906"/>
         <obo:IAO_0000114>Proposed</obo:IAO_0000114>
         <obo:IAO_0000115>A product that is used by a person for the purpose of quitting smoking.</obo:IAO_0000115>
         <obo:IAO_0000118>NRT product</obo:IAO_0000118>
@@ -3283,7 +3282,7 @@
     <!-- http://addictovocab.org/ADDICTO_0000524 -->
 
     <owl:Class rdf:about="http://addictovocab.org/ADDICTO_0000524">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_50906"/>
         <obo:IAO_0000114>Proposed</obo:IAO_0000114>
         <obo:IAO_0000115>A rule recognised by the legal system of a country or community</obo:IAO_0000115>
         <rdfs:label>law</rdfs:label>
@@ -4147,7 +4146,7 @@
     <!-- http://addictovocab.org/ADDICTO_0000760 -->
 
     <owl:Class rdf:about="http://addictovocab.org/ADDICTO_0000760">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_50906"/>
         <obo:IAO_0000114>Proposed</obo:IAO_0000114>
         <obo:IAO_0000115>A role preformed by an individual who participates in administering a substance orally.</obo:IAO_0000115>
         <rdfs:label>orally administered</rdfs:label>
@@ -5412,7 +5411,7 @@
     <!-- http://addictovocab.org/ADDICTO_0000904 -->
 
     <owl:Class rdf:about="http://addictovocab.org/ADDICTO_0000904">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_50906"/>
         <obo:IAO_0000114>Discussed</obo:IAO_0000114>
         <obo:IAO_0000115>A role that inheres in money by virtue of it being acquired by an economic agent for providing a good or service or as a levy.</obo:IAO_0000115>
         <rdfs:label>revenue role</rdfs:label>
@@ -7267,7 +7266,7 @@ https://cancercontrol.cancer.gov/sites/default/files/2020-06/smokelesstobaccoand
     <!-- http://addictovocab.org/ADDICTO_0001113 -->
 
     <owl:Class rdf:about="http://addictovocab.org/ADDICTO_0001113">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_50906"/>
         <obo:IAO_0000114>Published</obo:IAO_0000114>
         <obo:IAO_0000115>A role that inheres in some material entity and is realized in some act of appraisal.</obo:IAO_0000115>
         <rdfs:label>economic good role</rdfs:label>
@@ -9682,9 +9681,10 @@ https://cancercontrol.cancer.gov/sites/default/files/2020-06/smokelesstobaccoand
     <!-- http://addictovocab.org/ADDICTO_0001365 -->
 
     <owl:Class rdf:about="http://addictovocab.org/ADDICTO_0001365">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000020"/>
+        <rdfs:subClassOf rdf:resource="http://addictovocab.org/ADDICTO_0001355"/>
         <obo:IAO_0000114>Proposed</obo:IAO_0000114>
-        <obo:IAO_0000115>A population attribute that consists of shared patterns of beliefs, evaluations, prescriptions and proscriptions that are maintained and propagated through social learning processes.</obo:IAO_0000115>
+        <obo:IAO_0000115>A population attribute that consists of shared patterns of beliefs, evaluations, feelings, rules and behaviours that are maintained and spread among members of the population through social learning processes.</obo:IAO_0000115>
+        <rdfs:comment>Population refers to any collection of two or more people, whether in organised social groups such as teams or families or not.</rdfs:comment>
         <rdfs:label>culture</rdfs:label>
     </owl:Class>
     
@@ -9775,7 +9775,7 @@ https://cancercontrol.cancer.gov/sites/default/files/2020-06/smokelesstobaccoand
     <!-- http://humanbehaviourchange.org/ontology/BCIO_006081 -->
 
     <owl:Class rdf:about="http://humanbehaviourchange.org/ontology/BCIO_006081">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_50906"/>
         <obo:IAO_0000114>External</obo:IAO_0000114>
         <obo:IAO_0000115>A role that inheres in a person</obo:IAO_0000115>
         <rdfs:label>personal role</rdfs:label>
@@ -10238,12 +10238,6 @@ https://cancercontrol.cancer.gov/sites/default/files/2020-06/smokelesstobaccoand
         <obo:IAO_0000115>b is a specifically dependent continuant = Def. b is a continuant and there is some independent continuant c which is not a spatial region and which is such that b s-depends_on c at every time t during the course of b’s existence. (axiom label in BFO2 Reference: [050-003])</obo:IAO_0000115>
         <rdfs:label>specifically dependent continuant</rdfs:label>
     </owl:Class>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/BFO_0000023 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000023"/>
     
 
 
@@ -11039,6 +11033,12 @@ https://cancercontrol.cancer.gov/sites/default/files/2020-06/smokelesstobaccoand
         <obo:IAO_0000118>carcinogenicty</obo:IAO_0000118>
         <rdfs:label>carcinogenic agent</rdfs:label>
     </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CHEBI_50906 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/CHEBI_50906"/>
     
 
 
@@ -11992,7 +11992,7 @@ https://cancercontrol.cancer.gov/sites/default/files/2020-06/smokelesstobaccoand
     <!-- http://purl.obolibrary.org/obo/OBI_0000093 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OBI_0000093">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_50906"/>
         <obo:IAO_0000114>External</obo:IAO_0000114>
         <obo:IAO_0000115>a role which inheres in a person and is realized by being under the care of a physician or health care provider</obo:IAO_0000115>
         <rdfs:label>patient role</rdfs:label>
@@ -12185,7 +12185,7 @@ https://cancercontrol.cancer.gov/sites/default/files/2020-06/smokelesstobaccoand
     <!-- http://purl.obolibrary.org/obo/PATO_0000033 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/PATO_0000033">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/PATO_0002182"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/PATO_0000070"/>
         <obo:IAO_0000114>External</obo:IAO_0000114>
         <obo:IAO_0000115>A quality inhering in a substance by virtue of the amount of the bearer&apos;s there is mixed with another substance.</obo:IAO_0000115>
         <rdfs:label>concentration</rdfs:label>
@@ -12193,9 +12193,9 @@ https://cancercontrol.cancer.gov/sites/default/files/2020-06/smokelesstobaccoand
     
 
 
-    <!-- http://purl.obolibrary.org/obo/PATO_0002182 -->
+    <!-- http://purl.obolibrary.org/obo/PATO_0000070 -->
 
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/PATO_0002182"/>
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/PATO_0000070"/>
     
 
 
@@ -12359,5 +12359,5 @@ https://cancercontrol.cancer.gov/sites/default/files/2020-06/smokelesstobaccoand
 
 
 
-<!-- Generated by the OWL API (version 4.5.26) https://github.com/owlcs/owlapi -->
+<!-- Generated by the OWL API (version 4.5.29) https://github.com/owlcs/owlapi -->
 
