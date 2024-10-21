@@ -10669,6 +10669,7 @@ https://cancercontrol.cancer.gov/sites/default/files/2020-06/smokelesstobaccoand
     <!-- http://purl.obolibrary.org/obo/CHEBI_3216 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/CHEBI_3216">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_25418"/>
         <obo:IAO_0000114>External</obo:IAO_0000114>
         <obo:IAO_0000115>A morphinane alkaloid that is 7,8-dihydromorphine 6-O-methyl ether in which positions 6 and 14 are joined by a -CH2CH2- bridge, one of the hydrogens of the N-methyl group is substituted by cyclopropyl, and a hydrogen at position 7 is substituted by a 2-hydroxy-3,3-dimethylbutan-2-yl group. [RW: &apos;Morphine alkaloid ...?]</obo:IAO_0000115>
         <obo:IAO_0000119>CHEBI:3216</obo:IAO_0000119>
@@ -11290,6 +11291,7 @@ https://cancercontrol.cancer.gov/sites/default/files/2020-06/smokelesstobaccoand
     <!-- http://purl.obolibrary.org/obo/CHEBI_7465 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/CHEBI_7465">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_38164"/>
         <obo:IAO_0000114>External</obo:IAO_0000114>
         <obo:IAO_0000115>An organic heteropentacyclic compound that is naloxone substituted in which the allyl group attached to the nitrogen is replaced by a cyclopropylmethyl group.</obo:IAO_0000115>
         <obo:IAO_0000119>CHEBI:7465</obo:IAO_0000119>
